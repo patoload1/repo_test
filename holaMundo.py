@@ -1,10 +1,10 @@
-#print("hola mundo")
+print("hola mundo")
 """mensaje = " Hola Mundo "
-print(mensaje)"""#
+print(mensaje)"""
 
-#print("hola mundo")
+print("hola mundo")
 
-#print((3+2)/(2*5)**2)
+print((3+2)/(2*5)**2)
 
 """
 n = int(input("Introduce un número entero: "))
